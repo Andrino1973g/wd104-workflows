@@ -1,4 +1,4 @@
-#1. VPC
+##1. VPC
 resource "aws_vpc" "test-action" {
   cidr_block = var.vpc_cidr
 
